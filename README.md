@@ -32,4 +32,4 @@ Make sure you have Bash installed on your system. Most Unix-like systems come wi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/github-final-project.git
+   git clone [https://github.com/yourusername/github-final-project.git](https://github.com/Omnilux24/ibm-course)https://github.com/Omnilux24/ibm-course
